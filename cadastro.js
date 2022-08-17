@@ -3,3 +3,10 @@ function recebeEmail(email) {
 }
 
 //Criada funcionalidade de email
+
+
+function recebeMensagem() {
+    return 'Bem vindo ao sistema!';
+}
+
+//Adicionando mensagem bem vindo
